@@ -1,0 +1,15 @@
+C:\Users\hedco\OneDrive\Área de Trabalho\Projetos  Git\Projetos .NET\bin\Debug\net7.0\Projetos .NET.exe
+C:\Users\hedco\OneDrive\Área de Trabalho\Projetos  Git\Projetos .NET\bin\Debug\net7.0\Projetos .NET.deps.json
+C:\Users\hedco\OneDrive\Área de Trabalho\Projetos  Git\Projetos .NET\bin\Debug\net7.0\Projetos .NET.runtimeconfig.json
+C:\Users\hedco\OneDrive\Área de Trabalho\Projetos  Git\Projetos .NET\bin\Debug\net7.0\Projetos .NET.dll
+C:\Users\hedco\OneDrive\Área de Trabalho\Projetos  Git\Projetos .NET\bin\Debug\net7.0\Projetos .NET.pdb
+C:\Users\hedco\OneDrive\Área de Trabalho\Projetos  Git\Projetos .NET\obj\Debug\net7.0\Projetos .NET.csproj.AssemblyReference.cache
+C:\Users\hedco\OneDrive\Área de Trabalho\Projetos  Git\Projetos .NET\obj\Debug\net7.0\Projetos .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hedco\OneDrive\Área de Trabalho\Projetos  Git\Projetos .NET\obj\Debug\net7.0\Projetos .NET.AssemblyInfoInputs.cache
+C:\Users\hedco\OneDrive\Área de Trabalho\Projetos  Git\Projetos .NET\obj\Debug\net7.0\Projetos .NET.AssemblyInfo.cs
+C:\Users\hedco\OneDrive\Área de Trabalho\Projetos  Git\Projetos .NET\obj\Debug\net7.0\Projetos .NET.csproj.CoreCompileInputs.cache
+C:\Users\hedco\OneDrive\Área de Trabalho\Projetos  Git\Projetos .NET\obj\Debug\net7.0\Projetos .NET.dll
+C:\Users\hedco\OneDrive\Área de Trabalho\Projetos  Git\Projetos .NET\obj\Debug\net7.0\refint\Projetos .NET.dll
+C:\Users\hedco\OneDrive\Área de Trabalho\Projetos  Git\Projetos .NET\obj\Debug\net7.0\Projetos .NET.pdb
+C:\Users\hedco\OneDrive\Área de Trabalho\Projetos  Git\Projetos .NET\obj\Debug\net7.0\Projetos .NET.genruntimeconfig.cache
+C:\Users\hedco\OneDrive\Área de Trabalho\Projetos  Git\Projetos .NET\obj\Debug\net7.0\ref\Projetos .NET.dll
